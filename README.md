@@ -59,6 +59,11 @@ https://drive.google.com/file/d/1uu2hjlZwtK8mBQ4P5VA04F_cDiz02jSW/view?usp=shari
 **Repo Link**
 https://github.com/momentes/12-SQL-Challenge-Tracker
 
+
+**Screenshot**
+<img src="/lib/assets/images/SQL-Challenge-Tracker.jpg" width=85%>
+
+
 # License
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

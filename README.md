@@ -61,6 +61,7 @@ https://github.com/momentes/12-SQL-Challenge-Tracker
 
 
 **Screenshot**
+
 <img src="/lib/assets/images/SQL-Challenge-Tracker.png" width=85%>
 
 

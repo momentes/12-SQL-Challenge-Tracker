@@ -67,4 +67,4 @@ https://github.com/momentes/12-SQL-Challenge-Tracker
 
 Thank you
 End.        
-<img src="public/assets/Images/business-cat1.jpg" width=15%>
+<img src="/lib/assets/images/business-cat1.jpg" width=15%>

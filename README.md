@@ -4,14 +4,12 @@ Bootcamp Module 12 Challenge - Employee Manager
 The challenge is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 # User Story
--AS A business owner
--I WANT to be able to view and manage the departments, roles, and employees in my company
--SO THAT I can organize and plan my business
+- AS A business owner
+- I WANT to be able to view and manage the departments, roles, and employees in my company
+- SO THAT I can organize and plan my business
 
-## Acceptance Criteria
-
-GIVEN a command-line application that accepts user input
-
+# Acceptance Criteria
+- GIVEN a command-line application that accepts user input
 - WHEN I start the application
 - THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
 - WHEN I choose to view all departments
@@ -53,11 +51,13 @@ node server.js
 ```
 
 # Project Links:
+[Video Directory](https://github.com/momentes/12-SQL-Challenge-Tracker/tree/main/Video)
 
-
+**Video Link**
+https://drive.google.com/file/d/1uu2hjlZwtK8mBQ4P5VA04F_cDiz02jSW/view?usp=sharing
 
 **Repo Link**
-https://github.com/momentes/11-ExpressJS-Note-App
+https://github.com/momentes/12-SQL-Challenge-Tracker
 
 # License
 

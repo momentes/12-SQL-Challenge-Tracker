@@ -27,7 +27,7 @@ The challenge is to build a command-line application from scratch to manage a co
 - WHEN I choose to update an employee role
 - THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-## Installation
+# Installation
 
 run
 

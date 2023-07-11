@@ -54,9 +54,11 @@ node server.js
 [Video Directory](https://github.com/momentes/12-SQL-Challenge-Tracker/tree/main/video)
 
 **Video Link**
+
 https://drive.google.com/file/d/1ePPgXHo8SggwAV_CKqDJBzJZt4ZYyxPF/view?usp=sharing
 
 **Repo Link**
+
 https://github.com/momentes/12-SQL-Challenge-Tracker
 
 

@@ -51,7 +51,7 @@ node server.js
 ```
 
 # Project Links:
-[Video Directory](https://github.com/momentes/12-SQL-Challenge-Tracker/tree/main/Video)
+[Video Directory](https://github.com/momentes/12-SQL-Challenge-Tracker/tree/main/video)
 
 **Video Link**
 https://drive.google.com/file/d/1ePPgXHo8SggwAV_CKqDJBzJZt4ZYyxPF/view?usp=sharing
